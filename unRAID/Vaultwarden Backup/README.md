@@ -4,19 +4,16 @@ Vaultwarden: https://github.com/dani-garcia/vaultwarden
 All options are in the file, but you need to make a few folders inside the backup folder you intend to use.
 
 The folderstructure needs to be like this:
+
+```
 ./your-backup-folder
-
 ├── attachments
-
 ├── config
-
 ├── database
-
 ├── icon_cache
-
 ├── rsa
-
 └── sends
+```
 
 If you fail to create these folders the script will fail.
 
