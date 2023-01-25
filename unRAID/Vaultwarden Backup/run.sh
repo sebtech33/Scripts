@@ -2,14 +2,9 @@
 set -Eeuo pipefail
 
 #########################################################################
-# Author:                                                               #
-# Sebastian Eliassen                                                    #
-#                                                                       #
-# Project:                                                              #
-# https://github.com/sebtech33/Scripts/unRAID/Vaultwarden-Backup        #
-#                                                                       #
-# Issues:                                                               #
-# https://github.com/sebtech33/Scripts/issues                           #
+# Author:  Sebastian Eliassen
+# Project: https://github.com/sebtech33/Scripts/tree/main/unRAID/Vaultwarden%20Backup
+# Issues:  https://github.com/sebtech33/Scripts/issues
 #########################################################################
 #                                                                       #
 # MIT License                                                           #
