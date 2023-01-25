@@ -5,11 +5,17 @@ All options are in the file, but you need to make a few folders inside the backu
 
 The folderstructure needs to be like this:
 ./your-backup-folder
+
 ├── attachments
+
 ├── config
+
 ├── database
+
 ├── icon_cache
+
 ├── rsa
+
 └── sends
 
 If you fail to create these folders the script will fail.
